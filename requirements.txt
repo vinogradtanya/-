@@ -1,0 +1,8 @@
+customtkinter
+Pillow
+openpyxl
+matplotlib
+plyer
+mysql-connector-python
+python-dotenv
+pyinstaller
